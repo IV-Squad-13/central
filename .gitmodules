@@ -1,0 +1,6 @@
+[submodule "services"]
+	path = services
+	url = https://github.com/IV-Squad-13/services.git
+[submodule "docker"]
+	path = docker
+	url = https://github.com/iv-squad-13/docker.git
