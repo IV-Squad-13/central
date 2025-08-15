@@ -4,3 +4,9 @@
 [submodule "docker"]
 	path = docker
 	url = https://github.com/iv-squad-13/docker.git
+[submodule "Front"]
+	path = Front
+	url = https://github.com/iv-squad-13/Front.git
+[submodule "front"]
+	path = front
+	url = https://github.com/iv-squad-13/Front.git
