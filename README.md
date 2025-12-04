@@ -137,7 +137,7 @@ docker compose up -d mongo_db monolito_db monolito_api kurush_api
 
 | Camada | Tecnologias |
 |--------|-------------|
-| **Frontend** | React · Vite · Tailwind · TypeScript |
+| **Frontend** | React · Vite · Tailwind · JavaScript |
 | **Backend** | Java · Spring Boot · Quarkus |
 | **Banco de Dados** | PostgreSQL · MongoDB |
 | **Ambiente** | Docker · Docker Compose |
